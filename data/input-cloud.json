@@ -1,1 +1,24 @@
-
+{
+  "scenario_name": "Облачное SaaS-решение",
+  "scenario_type": "cloud",
+  "period_years": 5,
+  
+  "subscription": {
+    "monthly_per_user": 2500,
+    "users_count": 50,
+    "annual_increase_percent": 10
+  },
+  
+  "implementation": {
+    "migration": 300000,
+    "setup": 150000,
+    "training": 150000
+  },
+  
+  "benefits": {
+    "annual_savings": 1500000,
+    "revenue_growth": 1000000
+  },
+  
+  "description": "Внедрение облачного решения для управления розничной сетью"
+}
