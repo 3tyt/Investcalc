@@ -1,1 +1,26 @@
-
+{
+  "scenario_name": "Локальная ERP-система",
+  "scenario_type": "on_premise",
+  "period_years": 5,
+  
+  "capex": {
+    "hardware": 1500000,
+    "software_licenses": 800000,
+    "implementation": 500000,
+    "training": 200000
+  },
+  
+  "opex_annual": {
+    "maintenance": 300000,
+    "support": 400000,
+    "upgrades": 200000,
+    "personnel": 1200000
+  },
+  
+  "benefits": {
+    "annual_savings": 1800000,
+    "revenue_growth": 1200000
+  },
+  
+  "description": "Внедрение локальной ERP-системы для сети супермаркетов"
+}
